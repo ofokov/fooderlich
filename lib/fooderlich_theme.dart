@@ -40,6 +40,7 @@ class FooderlichTheme {
       primaryColor: Colors.grey[900],
       secondaryHeaderColor: Colors.green[600],
       textTheme: darkTextTheme,
+      textSelectionTheme: TextSelectionThemeData(selectionColor: Colors.green),
     );
   }
 }
